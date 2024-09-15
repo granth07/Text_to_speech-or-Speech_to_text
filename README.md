@@ -16,6 +16,6 @@ This Python application allows you to convert text to speech and speech to text.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/text-speech-app.git
+   git clone https://github.com/granth07/Text_to_speech-or-Speech_to_text.git
    cd text-speech-app
 
